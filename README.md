@@ -50,6 +50,6 @@ Designed an interactive Excel dashboard with:
 ## ✅ Final Conclusion
 
 Through structured data cleaning, transformation, and interactive visualization in Excel, this project successfully uncovered key sales and profit trends across product lines and regions.  
-The final dashboard empowers stakeholders to make **informed decisions** based on clear insights into **product performance**, **customer behavior**, and **regional contributions**
+The final dashboard empowers stakeholders to make **informed decisions** based on clear insights into **product performance**, **customer behavior**, and **regional contributions**.
 
 
