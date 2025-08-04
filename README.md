@@ -44,3 +44,12 @@ Designed an interactive Excel dashboard with:
 - Interactive Dashboard Design
 - Business Intelligence & Insights
 
+## 📊 Dashboard Preview
+<img width="872" height="461" alt="Screenshot 2025-07-24 051033" src="https://github.com/user-attachments/assets/ab2a6690-223a-4f8b-a465-70f797c1a295" />
+
+## ✅ Final Conclusion
+
+Through structured data cleaning, transformation, and interactive visualization in Excel, this project successfully uncovered key sales and profit trends across product lines and regions.  
+The final dashboard empowers stakeholders to make **informed decisions** based on clear insights into **product performance**, **customer behavior**, and **regional contributions**
+
+
